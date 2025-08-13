@@ -18,7 +18,7 @@
 - **Suraj Sajeevan** — BMS College of Engineering, Department of Information Science  
   Roles: Investigation; Screening; Data Extraction; Visualization; Writing – Review & Editing
 
-> **Contact (corresponding author):** deeraj.is22@bmsce.ac.in , suraj.is22@bmsce.ac.in, garimella.is22@bmsce.ac.in
+> **Contact (corresponding author):** deeraj.is22@bmsce.ac.in, garimella.is22@bmsce.ac.in, suraj.is22@bmsce.ac.in
 
 ### 1.2 Registration and Archiving
 - **Public registration:** Not registered (e.g., PROSPERO/OSF not used).  
