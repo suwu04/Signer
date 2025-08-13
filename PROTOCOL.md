@@ -53,7 +53,7 @@ Automatic sign language recognition and translation systems have advanced throug
 - **Study types:** Peer‑reviewed journal articles, conference papers, and reputable preprints (e.g., arXiv) **with empirical evaluation**.  
 - **Publication window:** 2019‑01‑01 to 2025‑02‑10.  
 - **Languages:** English.  
-- **Domains:** Computer Vision, NLP, Human–Computer Interaction, Assistive Tech.  
+- **Domains:** Computer Vision, NLP, Human–Computer Interaction, Assistive Tech, Mobile Application Development, MediaPipe.  
 - **Population/Context:** Sign language users (focus on ISL; comparative insights from ASL/BSL etc. included if methods generalizable to ISL).  
 - **Interventions/Systems:** Automatic sign recognition/translation; avatar-based sign generation; real-time or near-real-time pipelines; mobile/edge deployment.  
 - **Comparators:** Prior baselines or cross-model comparisons where available.  
@@ -71,7 +71,7 @@ Automatic sign language recognition and translation systems have advanced throug
 - **Supplementary:** Google Scholar (first ~200 hits per query), arXiv (cs.CV, cs.CL).  
 - **Manual methods:** Backward/forward citation chasing from included studies; author webpages and project repositories when linked.
 
-**Search completed:** 2025‑02‑10.
+**Search completed:** 05-05-2025.
 
 ---
 
