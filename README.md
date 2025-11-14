@@ -6,14 +6,6 @@ The live application is hosted for free using GitHub Pages.
 
 ---
 
-## 🚀 Launch the Application
-
-**[Click Here to Launch SignBridge (Live Web Demo)](YOUR_LIVE_GITHUB_PAGES_URL_HERE)**
-
-*(Remember to replace the URL above with the actual link to your live GitHub Pages site.)*
-
----
-
 ## ✨ Web App Features (`index.html`)
 
 The public web application focuses purely on translating **English input into ISL animations**. It is built using standard web technologies: **HTML**, **CSS (Tailwind)**, and **vanilla JavaScript**.
