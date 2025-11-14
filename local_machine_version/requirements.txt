@@ -1,0 +1,12 @@
+ultralytics
+opencv-python-headless
+pillow
+matplotlib
+fastapi
+uvicorn
+flask
+numpy
+moviepy
+whisper
+tensorflowjs 
+onnx
