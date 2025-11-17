@@ -48,3 +48,5 @@ To run the full feature set locally:
 
 ```bash
 python app.py
+
+:)
