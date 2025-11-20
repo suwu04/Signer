@@ -1,0 +1,4 @@
+Pillow
+SpeechRecognition
+pyaudio
+streamlit
