@@ -16,7 +16,7 @@ A web-based **Text-to-Sign** and **Voice-to-Sign** translator for Indian Sign La
 * ** Modern UI:** A clean, user-friendly interface designed with Dark Mode support.
 
 ---
-##Tech Stack
+## Tech Stack
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
