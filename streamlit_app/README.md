@@ -35,7 +35,7 @@ Follow these steps to set up the project locally.
 Ensure you have Python installed. Open your terminal and install the required libraries:
 
 ```bash
-pip install streamlit Pillow SpeechRecognition pyaudio
+pip install -r requirements.txt
 ```
 ## Run streamlit app
 ```bash
